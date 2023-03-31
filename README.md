@@ -1,5 +1,7 @@
-### Hi there 👋
+### Most Sincere of Greetings Visitor 👋
 
+
+My Name is Joe. I develop various types of programs. Currently working on Blazor webapps. Learning to work with 3.js and React.
 <!--
 **JoeDark/JoeDark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +13,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 -->
