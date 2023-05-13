@@ -5,6 +5,8 @@ Some call me Joe, others call me "Who??".
 
 I develop various types of programs. Currently working on Blazor webapps. Learning to work with 3.js and React.
 
+A curious little thing: https://joedark.github.io/39-adding-details-to-the-scene/
+
 I am currently working on:
 🚶‍♂️Three.js journey
 ☁Az-900
