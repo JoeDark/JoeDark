@@ -8,10 +8,11 @@ I develop various types of programs. Currently working on Blazor webapps. Learni
 A curious little thing: https://joedark.github.io/39-adding-details-to-the-scene/
 
 I am currently working on:
-🚶‍♂️Three.js journey
 ☁Az-900
 🎆Portfolio Website
 ...and a few other things
+
+✨Three.js creative code (And blender models?) and websites... Coming soon
 <!--
 **JoeDark/JoeDark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
