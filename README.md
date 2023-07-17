@@ -1,6 +1,7 @@
 ### Most Sincere of Greetings Visitor 👋
 
 [Website](https://joedark.codes/)
+
 Developer of various types of programs. Currently working on Blazor webapps AND React with threejs (R3F).
 
 A curious little thing: https://joedark.github.io/39-adding-details-to-the-scene/
