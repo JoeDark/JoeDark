@@ -1,5 +1,6 @@
 ### Most Sincere of Greetings Visitor 👋
 
+[Website](https://joedark.codes/)
 Developer of various types of programs. Currently working on Blazor webapps AND React with threejs (R3F).
 
 A curious little thing: https://joedark.github.io/39-adding-details-to-the-scene/
@@ -8,7 +9,7 @@ I am currently working on:
 ☁Az-900
 ...and a few other things
 
-✨Three.js creative code (And blender models?) and websites... Coming soon
+✨Three.js creative code (And blender models?)
 <!--
 **JoeDark/JoeDark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
