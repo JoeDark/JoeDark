@@ -1,6 +1,6 @@
 ### Most Sincere of Greetings Visitor 👋
 
-[Website](https://joedark.codes/)
+[Personal Website](https://joedark.codes/)
 
 Developer of various types of programs. Currently working on Blazor webapps AND React with threejs (R3F).
 
