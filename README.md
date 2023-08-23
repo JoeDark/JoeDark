@@ -6,9 +6,10 @@ Developer of various types of programs. Currently working on Blazor webapps AND 
 
 A curious little thing: https://joedark.github.io/39-adding-details-to-the-scene/
 
+Azure Fundamental certified
+
 I am currently working on:
-☁Az-900
-...and a few other things
+... a few other things
 
 ✨Three.js creative code (And blender models?)
 <!--
