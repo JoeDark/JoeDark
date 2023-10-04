@@ -1,27 +1,23 @@
-### Most Sincere of Greetings Visitor 👋
+## Most Sincere of Greetings Visitor 👋
 
-[Personal Website](https://joedark.codes/)
+[Personal Website](https://joedark.codes/) [<em>Overhauling UI soon</em>] 👍
 
-Developer of various types of programs. Currently working on Blazor webapps AND React with threejs (R3F).
+[Custom Portal Scene. Check it out!](https://joedark.github.io/39-adding-details-to-the-scene/)  [![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white), 
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) shading language, modeled with
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)]
 
-A curious little thing: https://joedark.github.io/39-adding-details-to-the-scene/
+🖥 Largely a Dotnet developer<br>
+🌐 Also a javascript developer<br>
+✨Three.js creative code, Blender models<br>
 
-Azure Fundamental certified
+---
+### Certs and such:
 
-I am currently working on:
-... a few other things
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white): Fundamental certified <br>
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white): Three.js journey completion <br>
 
-✨Three.js creative code (And blender models?)
-<!--
-**JoeDark/JoeDark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<strong>More in the works...</strong> <br>
 
-Leaving, might use later
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+---
 
-
--->
+Cheers! 🤠
