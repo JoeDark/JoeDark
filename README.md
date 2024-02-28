@@ -14,6 +14,7 @@
 ### Certs and such:
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white): Fundamental certified <br>
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white): Data Fundamental certified <br>
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white): Three.js journey completion <br>
 
 <strong>In the works:</strong> <br>
